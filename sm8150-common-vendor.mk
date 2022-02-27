@@ -262,7 +262,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/sm8150-common/proprietary/vendor/etc/init/vppservice.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vppservice.rc \
     vendor/oneplus/sm8150-common/proprietary/vendor/etc/init/wfdvndservice.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/wfdvndservice.rc \
     vendor/oneplus/sm8150-common/proprietary/vendor/etc/libese-nxp.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libese-nxp.conf \
-    vendor/oneplus/sm8150-common/proprietary/vendor/etc/libnfc-nci.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nci.conf \
     vendor/oneplus/sm8150-common/proprietary/vendor/etc/libnfc-nci_beijingbus.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nci_beijingbus.conf \
     vendor/oneplus/sm8150-common/proprietary/vendor/etc/libnfc-nci_changancard.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nci_changancard.conf \
     vendor/oneplus/sm8150-common/proprietary/vendor/etc/libnfc-nci_productline.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nci_productline.conf \
@@ -271,7 +270,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/sm8150-common/proprietary/vendor/etc/libnfc-nci_wuhantong.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nci_wuhantong.conf \
     vendor/oneplus/sm8150-common/proprietary/vendor/etc/libnfc-nci_yangchengtong.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nci_yangchengtong.conf \
     vendor/oneplus/sm8150-common/proprietary/vendor/etc/libnfc-nci_zhengzhoubus.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nci_zhengzhoubus.conf \
-    vendor/oneplus/sm8150-common/proprietary/vendor/etc/libnfc-nxp.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nxp.conf \
     vendor/oneplus/sm8150-common/proprietary/vendor/etc/libnfc-nxp_RF.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nxp_RF.conf \
     vendor/oneplus/sm8150-common/proprietary/vendor/etc/libnfc-nxp_RF_beijingbus.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nxp_RF_beijingbus.conf \
     vendor/oneplus/sm8150-common/proprietary/vendor/etc/libnfc-nxp_RF_changancard.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nxp_RF_changancard.conf \
